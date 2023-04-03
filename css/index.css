@@ -1,0 +1,17 @@
+body{
+    background-color: limegreen;
+}
+h1 {
+    color: white;
+    background-color: red;
+    font-family: "Lucida Console";
+    text-align: center;
+}
+li {
+    color:red;
+}
+a { 
+    color: indigo;
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+}
